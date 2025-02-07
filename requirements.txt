@@ -5,3 +5,5 @@ redis
 psycopg2-binary
 requests
 beautifulsoup4
+sqlalchemy
+psycopg2
