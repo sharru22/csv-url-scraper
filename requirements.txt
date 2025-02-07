@@ -7,3 +7,7 @@ requests
 beautifulsoup4
 sqlalchemy
 psycopg2
+fastapi
+sqlalchemy
+psycopg2-binary
+uvicorn
